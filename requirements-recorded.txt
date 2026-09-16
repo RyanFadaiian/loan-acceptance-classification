@@ -1,0 +1,6 @@
+# Versions installed during packaging verification; not necessarily original training versions.
+numpy==2.2.6
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.10.3
+scipy==1.17.1

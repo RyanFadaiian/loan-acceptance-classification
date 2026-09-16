@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,auc
+Decision Tree (raw),0.985,0.904,0.942,0.922,0.986
+Random Forest (raw),0.986,0.981,0.867,0.920,0.997
+Decision Tree (SMOTE),0.973,0.799,0.958,0.871,0.995
+Random Forest (SMOTE),0.975,0.811,0.967,0.882,0.995
